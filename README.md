@@ -18,4 +18,6 @@
 </div>
 <br/>
 Apaixonado pelo mundo da programação ❤️🌎
-![snake gif](https://github.com/PeuTrindade/PeuTrindade/blob/output/github-contribution-grid-snake.svg)
+
+
+[![snake gif](https://github.com/PeuTrindade/PeuTrindade/blob/output/github-contribution-grid-snake.svg)]
